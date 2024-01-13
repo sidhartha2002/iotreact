@@ -330,7 +330,6 @@ export default function FirebaseCrud() {
         <button onClick={SelectData}>Select data</button>
         <button onClick={RefreshData}>Refresh data</button>
       </div>
-      <Button>sads</Button>
     </>
   );
 }
